@@ -17,7 +17,7 @@ Displays individual student details and top reasons for risk
 Allows download of predictions as CSV
 Built with Python, Pandas, XGBoost, and Streamlit
 
-# Requirements
+## Requirements
 Dataset (from Kaggle link above)
 Python
 Streamlit and the libraries mentioned above
